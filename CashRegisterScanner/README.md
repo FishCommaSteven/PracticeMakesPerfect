@@ -1,1 +1,3 @@
-Define requirements for this here
+Design and implement a cash register application that scans item and calculates prices.
+
+Further define requirements, assumptions, etc. with group...
