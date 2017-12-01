@@ -1,4 +1,9 @@
+# Mirrored Tree
+
 This problem involves a tree and determining if the tree has mirrored branches.
+
+* INPUT: Root Node
+* OUTPUT: TRUE or FALSE
 
 Nodes can contain data of any type, up to the individual (although int makes it easy).
 
