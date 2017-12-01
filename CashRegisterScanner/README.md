@@ -35,4 +35,11 @@ Bonus:
 Questions/Consideration:
 - Weight vs count
 
+- Keep classes small (single responsibility) and simple to understand!!!
+- Abstraction and encapsulation!
+- Testability
+- Keep in mind that what we have defined here is only PART of this system!!! Is tehre anything else that should be taken into consideration?
+
 1. First pass is class structure. No real functionality.
+
+
