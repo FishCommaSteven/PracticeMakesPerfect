@@ -8,4 +8,6 @@ you can create subfolders like "version1", "version2", etc.
 If you have a problem, experiment, etc you like to share with the group, just add a folder fot it with a 
 README.md file with details.
 
+Feel free to edit .gitignore file as well!!!
+
 Have fun!
