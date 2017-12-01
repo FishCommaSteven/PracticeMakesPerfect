@@ -1,3 +1,5 @@
+# Cash Register - Scanner
+
 Design and implement a cash register application that scans item and calculates prices.
 Further define requirements, assumptions, etc. with group...
 Constraints: Don't have to worry about keypad input, screen
