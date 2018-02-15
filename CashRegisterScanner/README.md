@@ -38,7 +38,7 @@ Questions/Consideration:
 - Keep classes small (single responsibility) and simple to understand!!!
 - Abstraction and encapsulation!
 - Testability
-- Keep in mind that what we have defined here is only PART of this system!!! Is tehre anything else that should be taken into consideration?
+- Keep in mind that what we have defined here is only PART of this system!!! Is there anything else that should be taken into consideration? What else not listed here could affect design and implementation?
 
 1. First pass is class structure. No real functionality.
 
